@@ -1,0 +1,6 @@
+# contexts
+
+Thư mục này lưu các context dùng cho React Context API, ví dụ: AuthContext để lưu trạng thái đăng nhập.
+
+- AuthContext: lưu thông tin người dùng, token, ...
+- ...
